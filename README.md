@@ -1,2 +1,1 @@
-# aprendiendo-git
-Este es un repositorio de prueba del Prep Course de Henry para practicar git
+Este proyecto es una prueba de cómo crear un repositorio desde github y clonarlo a mi escritorio local
